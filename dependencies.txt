@@ -1,0 +1,6 @@
+fuse
+wget
+ffmpeg
+vlc
+unzip
+python3-pip

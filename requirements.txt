@@ -1,0 +1,6 @@
+selenium
+discord.py[voice]
+python-dotenv
+youtube-dl
+python-opensubtitles
+validators

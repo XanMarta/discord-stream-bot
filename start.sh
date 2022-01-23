@@ -1,0 +1,1 @@
+python3 src/controller.py

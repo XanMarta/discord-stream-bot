@@ -1,0 +1,14 @@
+.dist/
+.venv/
+.media/
+
+*.pyc
+*.mp4
+*.log
+*.conf
+*.zip
+note.txt
+
+test.sh
+
+src/test.py
